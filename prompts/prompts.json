@@ -266,7 +266,7 @@
           "The kitten holds the string of a single glossy round red balloon floating above it.",
           "The kitten wears a large orange grosgrain ribbon bow with crisp looped ends tied at its neck.",
           "The kitten is wrapped in a cozy, chunky hand-knit burnt-orange scarf with soft fringed tassels.",
-          "The kitten holds a small bundle of wildflowers — periwinkle-blue cornflowers, violet asters and tiny yellow buttercups — in its front paws.",
+          "The kitten hugs a big, lush, overflowing bouquet of fresh colorful flowers with its front paws — dozens of full open blooms and greenery packed densely together, almost as big as the kitten itself, wrapped in kraft paper with a ribbon.",
           "The kitten hugs a small gift box wrapped in warm gold-brown paper with a satin bow on top."
         ],
         "group2": [
@@ -300,7 +300,7 @@
           {
             "name": "С цветком",
             "card": "A small loose bundle of mixed wildflowers — periwinkle-blue cornflowers, violet asters and tiny yellow buttercups — tied with a thin blade of grass; shown as a standalone bouquet, no kitten.",
-            "scene": "The kitten holds a small bundle of cornflowers, asters and buttercups in its front paws."
+            "scene": "The kitten hugs a big, lush, overflowing bouquet of fresh colorful flowers with its front paws — dozens of full open blooms and greenery packed densely together, almost as big as the kitten itself, wrapped in kraft paper with a ribbon."
           },
           {
             "name": "С подарком",
@@ -435,7 +435,7 @@
         "group1": [
           "The bear holds a small glass jar of deep-red berry jam with a red-and-white gingham cloth tied over the lid, a rustic wooden spoon in its other paw.",
           "The bear hugs a glossy deep-red plush velvet heart to its chest.",
-          "The bear holds a small bundle of wildflowers — periwinkle-blue cornflowers, violet asters and tiny yellow buttercups.",
+          "The bear hugs a big, lush, overflowing bouquet of fresh colorful flowers with both paws — dozens of full open blooms and greenery packed densely together, so large it covers most of its chest, wrapped in kraft paper with a ribbon.",
           "The bear holds the string of a single glossy warm-colored balloon floating above it.",
           "The bear wears a chunky orange-and-rust striped knit scarf wrapped around its neck."
         ],
@@ -465,7 +465,7 @@
           {
             "name": "С цветами",
             "card": "A small loose bundle of mixed wildflowers — periwinkle-blue cornflowers, violet asters and tiny yellow buttercups; shown as a standalone bouquet, no bear.",
-            "scene": "The bear holds a small bundle of cornflowers, asters and buttercups."
+            "scene": "The bear hugs a big, lush, overflowing bouquet of fresh colorful flowers with both paws — dozens of full open blooms and greenery packed densely together, so large it covers most of its chest, wrapped in kraft paper with a ribbon."
           },
           {
             "name": "С шариком",
