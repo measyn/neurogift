@@ -1,0 +1,350 @@
+{
+ "STYLE2": "A warm, naturally lit full-bleed square illustration rendered in a soft painterly 3D style with rich, true-to-life colors and a golden-hour quality of light — warm backlighting (contre-jour) glowing from just behind or beside the subject, wrapping a soft warm amber-yellow rim of light along its edges and haloing gently through any translucent or fine details, paired with soft, evenly diffused fill light so the front of the subject stays clearly visible, well-exposed and richly colored rather than silhouetted. The overall palette should read noticeably warmer and more saturated toward golden yellow and amber than neutral daylight — a true late-afternoon sunlight feel — while never collapsing into a flat orange-and-purple cinematic tone map and never looking desaturated or muted. Camera: a three-quarter elevated medium close-up, framed so the subject and any paired objects are large and prominent in the square canvas, nothing cropped awkwardly at any edge. The setting described in the prompt must be clearly visible and recognizable around and behind the subject, with its key elements readable — never replaced by an empty wall, a plain studio backdrop or an abstract out-of-focus haze; only the farthest distance may soften gently into warm light blooms for depth. Rendered with crisp, sharp-focus detail throughout and a premium level of surface texture — fabric weave, fur strands, material sheen, glaze, all clearly readable but never overloaded with tiny clutter. Square 1:1 composition, no watermark, no logo.",
+ "cats": {
+  "flowers": {
+   "background": "The scene is set on a softly lit wooden tabletop beside a large window in a cozy room, sheer curtains glowing with warm evening light, a few loose petals scattered on the table.",
+   "group1": [
+    {
+     "name": "Красные розы",
+     "prompt": "A dense, tightly hand-tied bouquet of deep crimson-red garden roses in full bloom, velvety layered petals catching soft highlights at their curled edges, each rose head large and voluminous, glossy dark-green serrated leaves and a few thorny stems visible beneath, the stem bundle wrapped in natural kraft paper with twine.",
+     "scene": null
+    },
+    {
+     "name": "Белые розы",
+     "prompt": "A tightly hand-tied bouquet of pure ivory-white roses with soft, almost translucent outer petals and tighter inner petal spirals, pale sage-green leaves threaded between the blooms, stems wrapped in kraft paper, clean and elegant look.",
+     "scene": null
+    },
+    {
+     "name": "Тюльпаны",
+     "prompt": "A hand-tied bouquet of tulips in a mix of cherry-red, soft blush-pink and buttery yellow, each bloom a smooth closed teardrop-shaped cup with a faint satin sheen, tall straight pale-green stems with a slight natural curve, tied together with a thin satin ribbon.",
+     "scene": null
+    },
+    {
+     "name": "Сирень",
+     "prompt": "A loose armful of fragrant lilac branches, each stem thick with dense cone-shaped clusters of tiny four-petaled blossoms in dusty lavender-purple and creamy white, woody brown stems and soft oval green leaves, slightly wild and overflowing in shape.",
+     "scene": null
+    },
+    {
+     "name": "Ромашки",
+     "prompt": "A cheerful, slightly messy hand-tied bouquet of field daisies — simple white petals radiating around warm golden-yellow centers — thin wiry green stems with small serrated leaves, tied loosely with rough garden twine.",
+     "scene": null
+    }
+   ],
+   "group2": [
+    {
+     "name": "В вазе",
+     "prompt": "A tall cylindrical ceramic vase glazed in a cobalt-blue and white hand-painted floral pattern, glossy reflective surface, filled with clear water visible through the glaze's sheen at the rim; shown as a standalone vase, no flowers.",
+     "scene": "The bouquet stands in a tall cylindrical ceramic vase glazed in a cobalt-blue and white hand-painted floral pattern, filled with clear water."
+    },
+    {
+     "name": "С запиской",
+     "prompt": "A small ivory greeting card with deckled, slightly torn edges and an ornate red-and-gold foil-stamped border, propped at an angle, flowing cursive handwriting visible on its face; shown as a standalone card, no flowers.",
+     "scene": "A small ivory greeting card with deckled edges, an ornate red-and-gold foil border and flowing cursive handwriting is tucked among the stems."
+    },
+    {
+     "name": "С шариком",
+     "prompt": "A single glossy round red latex balloon, light catching its curved surface in a bright specular highlight, a thin curled gold ribbon trailing from its knot; shown as a standalone balloon, no flowers.",
+     "scene": "A single glossy round red latex balloon on a thin curled gold ribbon is tied to the bouquet, floating just above it."
+    },
+    {
+     "name": "С конфетами",
+     "prompt": "An open hinged box of artisan chocolate truffles in a textured gold-foil and chocolate-brown box, a dozen glossy dark-chocolate and praline pieces nestled in individual brown paper cups; shown as a standalone box of chocolates, no flowers.",
+     "scene": "Beside the bouquet sits an open gold-foil box of glossy chocolate truffles nestled in brown paper cups."
+    },
+    {
+     "name": "С коньяком",
+     "prompt": "A squat bottle of amber cognac with a dark label and gold foil neck wrap, beside a wide tulip-shaped cognac glass catching warm amber light through the liquid; shown as a standalone bottle and glass, no flowers.",
+     "scene": "Beside the bouquet stand a squat bottle of amber cognac with a gold-foil neck and a tulip-shaped cognac glass catching warm light through the liquid."
+    }
+   ]
+  },
+  "cake": {
+   "background": "The cake rests on a cake stand on a softly draped ivory linen tablecloth in a cozy festive dining room, two or three lit candles glowing just behind it, a sprig of greenery leaning into frame and the warm room softly visible in the background.",
+   "group1": [
+    {
+     "name": "Шоколадный",
+     "prompt": "A rich two-layer chocolate cake with dark, glossy chocolate ganache cascading down the sides in thick individual drips of uneven length, tall swirled rosettes of chocolate buttercream piped around the top edge, a scattering of shaved dark-chocolate curls catching the light, one halved ripe strawberry resting on top, the dense moist chocolate crumb visible at the sliced edge.",
+     "scene": null
+    },
+    {
+     "name": "Ягодный",
+     "prompt": "A round cake with smooth pale cream frosting almost completely hidden under an abundant, slightly spilling mound of fresh strawberries, blueberries and raspberries in varying sizes, their skins glossy and catching bright specular highlights, a few loose berries resting on the plate at the base.",
+     "scene": null
+    },
+    {
+     "name": "Розовый",
+     "prompt": "A round cake finished in a soft pastel-pink ombré frosting that deepens from pale blush at the top to a richer rose at the base, a delicate scalloped piped border, tiny pastel sugar-paste roses and silver dragée pearls scattered across the top.",
+     "scene": null
+    },
+    {
+     "name": "Медовик",
+     "prompt": "A traditional Russian honey layer cake (medovik) with eight to ten paper-thin caramel-brown pastry layers alternating with pale sour-cream filling, visible in cross-section along the cut side, the exterior coated in a crumbled honey-cake crumb topping, warm golden-brown color throughout, no glossy frosting.",
+     "scene": null
+    },
+    {
+     "name": "С цветами",
+     "prompt": "A round cake in smooth pale-ivory frosting, elegantly decorated with an asymmetrical scattering of small real edible flowers — blush ranunculus, tiny white alyssum and sprigs of rosemary — a few loose petals resting on the plate.",
+     "scene": null
+    }
+   ],
+   "group2": [
+    {
+     "name": "Со свечами",
+     "prompt": "A tight bundle of ten tall slender birthday candles in alternating red, yellow, blue, green and pink stripes, standing upright together side by side with small glowing flames at the tips; shown as a standalone cluster of candles, no cake.",
+     "scene": "Ten tall slender striped birthday candles in red, yellow, blue, green and pink stand on top of the cake, small flames glowing at their tips."
+    },
+    {
+     "name": "С цифрами",
+     "prompt": "A pair of tall glossy gold number-shaped candles standing upright side by side, a highly polished mirror-like metallic gold surface with sharp specular highlights and a small lit wick at the top of each; shown as standalone candles, no cake.",
+     "scene": "Two tall glossy mirror-gold number-shaped candles stand on top of the cake, their wicks lit."
+    },
+    {
+     "name": "Свадебный",
+     "prompt": "A small porcelain-white bride-and-groom cake-topper figurine — a bride in a sculpted gown with a tiny lace-textured veil and a groom in a black tuxedo, standing close together — fine sculptural detail; shown as a standalone topper figurine, no cake.",
+     "scene": "A small porcelain-white bride-and-groom figurine with fine sculptural detail stands on top of the cake."
+    },
+    {
+     "name": "С сердечком",
+     "prompt": "A single glossy faceted red heart-shaped gem, cut with sharp angular facets that catch bright specular highlights across its deep ruby-red surface; shown as a standalone decoration, no cake.",
+     "scene": "A glossy faceted ruby-red heart-shaped gem decoration sits on top of the cake."
+    },
+    {
+     "name": "С чаем",
+     "prompt": "A delicate vintage porcelain tea set — a round-bellied teapot and a matching cup and saucer — painted with a dense pink rose and gold-vine floral pattern and finished with a hand-painted gold rim; shown as a standalone tea set, no cake.",
+     "scene": "Beside the cake stands a vintage porcelain tea set — a round-bellied teapot, a cup and saucer painted with pink roses and a gold rim."
+    }
+   ]
+  },
+  "heart": {
+   "background": "The heart floats just above a candlelit table in a cozy room at evening, rose petals scattered across the tablecloth, warm string lights and a window with a soft dusk sky glowing behind.",
+   "group1": [
+    {
+     "name": "Из роз",
+     "prompt": "A heart silhouette entirely built from dozens of fresh deep-red rose blooms packed tightly petal to petal, each individual rose head and its layered velvety petals clearly visible.",
+     "scene": null
+    },
+    {
+     "name": "Из шаров",
+     "prompt": "A heart silhouette formed from a dense cluster of round balloons in alternating red and blush-pink, each balloon's glossy latex surface catching a bright curved highlight.",
+     "scene": null
+    },
+    {
+     "name": "На замке",
+     "prompt": "A glossy candy-red heart with a small ornate antique-gold padlock mounted at its center, fine engraved scrollwork on the lock's face and a tiny matching gold key hanging from its hasp on a thin chain.",
+     "scene": null
+    },
+    {
+     "name": "Бархат",
+     "prompt": "A heart shape entirely upholstered in deep burgundy-red velvet fabric, the nap of the velvet catching light unevenly to reveal soft directional sheen and shadow.",
+     "scene": null
+    },
+    {
+     "name": "Рубиновое",
+     "prompt": "A heart cut and faceted like a large polished ruby gemstone, dozens of flat angular facets catching and refracting light in bright white and crimson glints across its deep saturated red surface.",
+     "scene": null
+    }
+   ],
+   "group2": [
+    {
+     "name": "Со стрелой",
+     "prompt": "A slender golden cupid's arrow angled diagonally, a sharp pointed arrowhead at one end and a cluster of soft curved feather fletching at the other; shown as a standalone arrow, no heart.",
+     "scene": "A slender golden cupid's arrow with soft feather fletching pierces the heart diagonally."
+    },
+    {
+     "name": "С крыльями",
+     "prompt": "A symmetrical pair of pure white feathered angel wings, composed of layered rows of soft downy feathers that grow larger toward the tips; shown as a standalone pair of wings, no heart.",
+     "scene": "A pair of pure white feathered angel wings spreads symmetrically from the sides of the heart."
+    },
+    {
+     "name": "В ладонях",
+     "prompt": "A pair of gently cupped open hands in a warm olive-tan skin tone, palms turned upward and fingers softly curled as if cradling something precious.",
+     "scene": "The heart is held in a pair of gently cupped open hands in a warm olive-tan skin tone."
+    },
+    {
+     "name": "С лентой",
+     "prompt": "A wide red satin ribbon banner draped in a loose diagonal swoop with soft folds and a glossy fabric sheen, the word «Люблю» in flowing white cursive script across its center; shown as a standalone ribbon, no heart.",
+     "scene": "A wide red satin ribbon banner with the word «Люблю» in flowing white cursive script is draped diagonally across the heart."
+    },
+    {
+     "name": "В огне",
+     "prompt": "A cluster of warm flickering flames in gradient tones from deep orange at the base to bright yellow at the tips, translucent and glowing at the edges; shown as standalone flames, no heart.",
+     "scene": "The heart is surrounded by warm flickering flames glowing from deep orange at the base to bright yellow at the tips."
+    }
+   ]
+  },
+  "kitten": {
+   "general": "A small, round-faced ginger tabby kitten with soft plush-looking fur in alternating bands of warm orange and cream, a fluffy white chest and belly, large expressive round amber eyes with dark pupils, a tiny pink nose, and short rounded ears. Posed in a relaxed, human-like manner appropriate to the scene — sitting upright with legs extended and crossed at the ankles, leaning back comfortably, or standing on its hind legs — rather than a typical four-legged animal crouch, tail curved gently behind it. The character's head is turned toward the viewer, looking directly into the camera with clear, friendly eye contact.",
+   "defaultEnv": "The kitten is sitting in a cozy sunlit home interior, a soft sofa, a knit throw and warm window light visible around it.",
+   "group1": [
+    {
+     "name": "С шариком",
+     "prompt": "A single glossy round red latex balloon on a thin curled ribbon string; shown as a standalone balloon, no kitten.",
+     "scene": "The kitten holds the string of a single glossy round red balloon floating above it."
+    },
+    {
+     "name": "В бантике",
+     "prompt": "A large orange grosgrain ribbon bow with crisp looped ends and a small knotted center; shown as a standalone bow, no kitten.",
+     "scene": "The kitten wears a large orange grosgrain ribbon bow with crisp looped ends tied at its neck."
+    },
+    {
+     "name": "В шарфе",
+     "prompt": "A cozy, thick hand-knit scarf in a warm burnt-orange color, with a chunky bulky rib-knit texture, clearly visible thick yarn strands and a slightly irregular handmade look, both ends hanging unevenly with soft fringed tassels; shown as a standalone knitted scarf, no kitten.",
+     "scene": "The kitten is wrapped in a cozy, chunky hand-knit burnt-orange scarf with soft fringed tassels."
+    },
+    {
+     "name": "С цветком",
+     "prompt": "A small loose bundle of mixed wildflowers — periwinkle-blue cornflowers, violet asters and tiny yellow buttercups — tied with a thin blade of grass; shown as a standalone bouquet, no kitten.",
+     "scene": "The kitten holds a small bundle of wildflowers — periwinkle-blue cornflowers, violet asters and tiny yellow buttercups — in its front paws."
+    },
+    {
+     "name": "С подарком",
+     "prompt": "A small gift box wrapped in warm gold-brown textured paper, a matching satin ribbon tied in a neat bow on top; shown as a standalone gift box, no kitten.",
+     "scene": "The kitten hugs a small gift box wrapped in warm gold-brown paper with a satin bow on top."
+    }
+   ],
+   "group2": [
+    {
+     "name": "На подоконнике",
+     "prompt": "A sunlit windowsill scene: a plump honey-orange knit cushion resting on a pale wooden sill, a small terracotta pot with a trailing green pothos plant beside it, soft warm golden window light streaming in at a low angle; shown as a standalone setting, no kitten.",
+     "scene": "The kitten sits on a plump honey-orange knit cushion on a sunlit pale wooden windowsill, a terracotta pot with trailing green pothos beside it, the window behind showing a softly blurred autumn garden in low golden light, sheer curtains at the edges."
+    },
+    {
+     "name": "В корзинке",
+     "prompt": "A round, shallow woven wicker basket made of warm honey-brown rattan with a clearly visible over-under weave pattern, lined with a soft folded knit blanket in a cream-and-rust plaid pattern that spills gently over the rim; shown as a standalone basket, no kitten.",
+     "scene": "The kitten is nestled in a round woven honey-brown wicker basket lined with a cream-and-rust plaid knit blanket spilling over the rim, the basket on the wooden floor of a cozy room with a soft rug and warm lamplight behind."
+    },
+    {
+     "name": "У камина",
+     "prompt": "A thick plaid wool blanket in warm red, cream and brown tones laid out rumpled on a stone hearth, the soft orange glow of a fireplace fire visible just beyond it; shown as a standalone setting, no kitten.",
+     "scene": "The kitten rests on a rumpled red-cream-brown plaid wool blanket on a stone hearth in front of a crackling fireplace, warm orange firelight flickering, a wooden mantel with candles and a cozy living room around it."
+    },
+    {
+     "name": "В саду",
+     "prompt": "A small rustic weathered wooden garden bench beside a leafy berry bush heavy with clusters of glossy red berries, an old galvanized-metal watering can resting on the grass nearby; shown as a standalone garden scene, no kitten.",
+     "scene": "The kitten sits on a small weathered wooden bench in a lush summer garden, a bush heavy with glossy red berries beside it, an old galvanized watering can on the grass, flower beds and greenery receding into warm evening sunlight."
+    },
+    {
+     "name": "На руках",
+     "prompt": "A pair of gently cupped warm hands in a soft skin tone, palms turned upward and fingers loosely curled as if supporting something small and delicate from below; shown as standalone hands, no kitten.",
+     "scene": "The kitten is cradled in a pair of gently cupped warm hands held toward the viewer, in a cozy home interior with a softly blurred sofa, knit throw and warm lamplight behind."
+    }
+   ]
+  },
+  "goat": {
+   "general": "A small stylized young goat character with a warm fiery gradient coat — deep orange across the back blending to a lighter amber along the sides — a soft white chest and belly, two small curved amber horns, a naturally proportioned goat body with slender, clearly visible legs and hooves rather than an exaggerated round chibi shape, large warm brown eyes and a friendly open-mouthed smile. Posed in a relaxed, human-like manner appropriate to the scene — reclining back with legs extended and ankles crossed, leaning casually on one elbow, or standing upright on two legs — rather than a typical four-legged animal stance or a curled-up seated pose. The character's head is turned toward the viewer, looking directly into the camera with clear, friendly eye contact.",
+   "defaultEnv": "The goat stands in a sunny green meadow dotted with wildflowers, gentle hills and a warm golden sky behind.",
+   "group1": [
+    {
+     "name": "На шезлонге",
+     "prompt": "A folding beach lounge chair with wide red-and-white striped canvas fabric stretched over a light wooden frame, the fabric slightly creased and sagging naturally in the seat, set on a sunlit sandy beach with the warm glow of a golden sunset reflecting off a calm sea stretching to a distant hazy coastline, a few loose blossoms and soft green leaves framing the edges of the scene; shown as a standalone lounge chair and beach setting, no goat.",
+     "scene": "The goat lounges back on a folding beach lounge chair with wide red-and-white striped canvas over a light wooden frame, set on a sunlit sandy beach at golden sunset, a calm sea reflecting the sun and stretching to a distant hazy coastline, a few loose blossoms and green leaves framing the edges."
+    },
+    {
+     "name": "У ёлки",
+     "prompt": "A richly decorated green fir Christmas tree hung with round glass ornaments in red, gold and blue, strings of small twinkling warm-white lights woven through the branches; shown as a standalone tree, no goat.",
+     "scene": "The goat stands beside a richly decorated green fir Christmas tree hung with red, gold and blue glass ornaments and twinkling warm-white lights, wrapped presents beneath it, in a cozy living room with a glowing fireplace and a frosted window in the background."
+    },
+    {
+     "name": "На ферме",
+     "prompt": "A tightly bound golden bundle of dry hay wrapped twice with coarse rope, resting atop a rough-hewn wooden crate; shown as a standalone farm prop, no goat.",
+     "scene": "The goat sits on a tightly bound golden hay bale tied with coarse rope atop a rough-hewn wooden crate, in a sunny farmyard with a red wooden barn, a weathered wooden fence and golden wheat fields rolling into the distance under a warm evening sky."
+    },
+    {
+     "name": "В караоке",
+     "prompt": "A handheld karaoke microphone with a dark foam windscreen head and a brushed-silver metallic body, held at a slight upward angle as if captured mid-song; standing in front of a small glowing karaoke screen faintly displaying blurred colorful song lyrics, soft sweeping beams of pink, blue and purple stage spotlights crossing through the air around it, scattered small round reflections of disco light visible softly in the near background — a lively, festive karaoke-party atmosphere; shown as a standalone prop and setting, no goat.",
+     "scene": "The goat sings into a handheld karaoke microphone with a dark foam head and brushed-silver body, standing on a small karaoke stage in front of a glowing screen with blurred colorful lyrics, sweeping pink, blue and purple spotlight beams and disco-ball reflections filling a lively party room."
+    },
+    {
+     "name": "На ракете",
+     "prompt": "A small cartoon rocket ship with a glossy white body, bold red and blue fin stripes, a round porthole window, and a pointed cherry-red nose cone; shown as a standalone rocket, no goat.",
+     "scene": "The goat rides astride a small cartoon rocket ship with a glossy white body, bold red and blue fin stripes, a round porthole and a cherry-red nose cone, flying through outer space high above planet Earth: the curved blue-and-white globe with swirling clouds and a warm golden sunrise glow along its horizon fills the lower part of the frame, deep starry black-blue space above, a bright fiery exhaust trail streaming from the rocket."
+    }
+   ],
+   "group2": [
+    {
+     "name": "С коктейлем",
+     "prompt": "A tall fancy cocktail glass filled with a bright orange layered drink, condensation beading on the glass, garnished with a small striped paper umbrella; shown as a standalone cocktail, no goat.",
+     "scene": "In one hoof the goat holds a tall fancy cocktail glass with a bright orange layered drink, condensation beading on the glass, garnished with a small striped paper umbrella and an orange slice."
+    },
+    {
+     "name": "С хлопушкой",
+     "prompt": "A white cone-shaped party popper mid-burst, a dense spray of multicolored confetti pieces and curled paper streamers frozen in motion; shown as a standalone party popper, no goat.",
+     "scene": "In one hoof the goat holds a white cone-shaped party popper mid-burst, multicolored confetti and curled paper streamers spraying through the air."
+    },
+    {
+     "name": "В очках",
+     "prompt": "A pair of sunglasses whose lenses and frames are both sculpted into stylized dancing flame shapes, rendered in gradient warm orange-to-red tones with a glossy enamel-like finish, the flame tips curling upward above each lens; shown as standalone flame-shaped glasses, no goat.",
+     "scene": "The goat wears sunglasses whose lenses and frames are sculpted into stylized dancing flames in glossy orange-to-red enamel."
+    },
+    {
+     "name": "С гирляндой",
+     "prompt": "A loosely tangled nest-like ball of thin brown wire string lights, dozens of small warm-glowing amber bulbs nestled unevenly throughout the coiled wire; shown as a standalone tangle of lights, no goat.",
+     "scene": "A string of small warm-glowing amber fairy lights is draped loosely over the goat's shoulders and around it."
+    },
+    {
+     "name": "В колпаке",
+     "prompt": "A festive cone-shaped party hat in a gradient from red to orange with a scattered white confetti-dot print, a fluffy white pompom on the very tip; shown as a standalone party hat, no goat.",
+     "scene": "The goat wears a cone-shaped party hat in a red-to-orange gradient with white confetti dots and a fluffy white pompom, perched between its horns."
+    }
+   ]
+  },
+  "bear": {
+   "general": "A classic plush teddy bear in warm honey-brown mohair-like fur, round softly-stitched black button eyes, a small embroidered triangular nose and a simple curved stitched smile, rounded ears set high on a round head. Posed in a relaxed, human-like manner appropriate to the scene — sitting upright with legs extended loosely in front, leaning back comfortably, or reclining on one side — short stubby limbs rendered naturally within that pose rather than a stiff symmetrical sitting toy pose. The character's head is turned toward the viewer, looking directly into the camera with clear, friendly eye contact.",
+   "defaultEnv": "The bear sits in a cozy living room with a knitted rug, a bookshelf and the warm glow of a floor lamp around it.",
+   "group1": [
+    {
+     "name": "С вареньем",
+     "prompt": "A small glass jar of deep-red berry jam, a square of red-and-white gingham fabric tied over the lid with twine, a rustic wooden spoon leaning against the jar's side; shown as a standalone jar, no bear.",
+     "scene": "The bear holds a small glass jar of deep-red berry jam with a red-and-white gingham cloth tied over the lid, a rustic wooden spoon in its other paw."
+    },
+    {
+     "name": "С сердечком",
+     "prompt": "A single glossy deep-red velvet heart with a soft plush fabric texture and visible directional sheen across its curved surface; shown as a standalone heart, no bear.",
+     "scene": "The bear hugs a glossy deep-red plush velvet heart to its chest."
+    },
+    {
+     "name": "С цветами",
+     "prompt": "A small loose bundle of mixed wildflowers — periwinkle-blue cornflowers, violet asters and tiny yellow buttercups; shown as a standalone bouquet, no bear.",
+     "scene": "The bear holds a small bundle of wildflowers — periwinkle-blue cornflowers, violet asters and tiny yellow buttercups."
+    },
+    {
+     "name": "С шариком",
+     "prompt": "A single glossy round balloon in a warm color with a thin curled ribbon string trailing from its knot; shown as a standalone balloon, no bear.",
+     "scene": "The bear holds the string of a single glossy warm-colored balloon floating above it."
+    },
+    {
+     "name": "В шарфе",
+     "prompt": "A cozy orange-and-rust striped chunky knit scarf with a thick ribbed texture, clearly visible bulky yarn stitches and a slightly irregular handmade look; shown as a standalone scarf, no bear.",
+     "scene": "The bear wears a chunky orange-and-rust striped knit scarf wrapped around its neck."
+    }
+   ],
+   "group2": [
+    {
+     "name": "В кресле",
+     "prompt": "A wooden rocking chair with turned spindle details and a soft red-and-white gingham seat cushion; shown as a standalone chair, no bear.",
+     "scene": "The bear sits in a wooden rocking chair with turned spindles and a red-and-white gingham cushion, in a cozy living room with a bookshelf, a knitted rug and a floor lamp's warm glow."
+    },
+    {
+     "name": "Под ёлкой",
+     "prompt": "A richly decorated green fir Christmas tree hung with round ornaments in red, gold and blue and strings of small twinkling warm lights; shown as a standalone tree, no bear.",
+     "scene": "The bear sits under a richly decorated fir Christmas tree with red, gold and blue ornaments and twinkling lights, wrapped presents around it, in a festive living room with a glowing fireplace behind."
+    },
+    {
+     "name": "В домике",
+     "prompt": "The cozy interior corner of a snow-dusted log cabin, rough-hewn warm honey-brown wood walls and a small round window framed in white; shown as a standalone interior scene, no bear.",
+     "scene": "The bear sits in the cozy corner of a snow-dusted log cabin with honey-brown wooden walls, a small round white-framed window showing falling snow and a snowy forest outside, a warm lantern glowing nearby."
+    },
+    {
+     "name": "На полюсе",
+     "prompt": "A snowy polar landscape with pale blue-white icebergs jutting from a frozen sea, distant snow-capped mountain peaks and soft wind-blown snow drifts; shown as a standalone landscape, no bear.",
+     "scene": "The bear stands on a snowy ice floe in a polar landscape, pale blue-white icebergs jutting from a frozen sea, distant snow-capped mountains and a soft glowing polar sky with a faint aurora."
+    },
+    {
+     "name": "В лесу",
+     "prompt": "A forest floor scene with tall green pine trees, dappled sunlight filtering through the branches onto a mossy, pine-needle-covered ground; shown as a standalone landscape, no bear.",
+     "scene": "The bear sits on a mossy log in a sunlit pine forest, tall green pines with dappled sunbeams filtering through the branches onto moss, ferns and pine needles."
+    }
+   ]
+  }
+ }
+}
