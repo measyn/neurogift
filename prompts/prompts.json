@@ -189,7 +189,7 @@
           "A slender golden cupid's arrow with soft feather fletching pierces the heart diagonally.",
           "A pair of pure white feathered angel wings spreads symmetrically from the sides of the heart.",
           "The heart is held in a pair of gently cupped open hands in a warm olive-tan skin tone.",
-          "A wide glossy red satin ribbon is wrapped around the heart and tied into a large elegant bow at its top — two full rounded loops, a neat knot and two long tails with V-cut ends — the satin catching soft highlights along its folds.",
+          "A wide glossy white satin ribbon is wrapped around the heart and tied into a large elegant bow at its top — two full rounded loops, a neat knot and two long tails with V-cut ends — pearly white satin with a lustrous sheen and soft highlights along its folds.",
           "The heart is surrounded by warm flickering flames glowing from deep orange at the base to bright yellow at the tips."
         ]
       },
@@ -244,8 +244,8 @@
           },
           {
             "name": "С бантом",
-            "card": "A large elegant bow tied from wide glossy red satin ribbon: two full rounded loops, a neat knotted center and two long tails with cleanly cut V-shaped ends, the satin catching soft highlights along its smooth folds; shown as a standalone satin bow, no heart.",
-            "scene": "A wide red satin ribbon is wrapped around the heart and tied into a large elegant bow on top."
+            "card": "A large elegant bow tied from wide glossy white satin ribbon: two full rounded loops, a neat knotted center and two long tails with cleanly cut V-shaped ends, pearly white satin with a lustrous sheen and soft shading in the folds; shown as a standalone satin bow, no heart.",
+            "scene": "A wide pearly white satin ribbon is wrapped around the heart and tied into a large elegant bow on top."
           },
           {
             "name": "В огне",
