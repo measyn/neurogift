@@ -348,53 +348,23 @@
         "general": "A small stylized young goat character with a warm fiery gradient coat — deep orange across the back blending to a lighter amber along the sides — a soft white chest and belly, two small curved amber horns, a naturally proportioned goat body with slender, clearly visible legs and hooves rather than an exaggerated round chibi shape, large warm brown eyes and a friendly open-mouthed smile. Posed in a relaxed, human-like manner appropriate to the scene — reclining back with legs extended and ankles crossed, leaning casually on one elbow, or standing upright on two legs — rather than a typical four-legged animal stance or a curled-up seated pose. The character's head is turned toward the viewer, looking directly into the camera with clear, friendly eye contact.",
         "defaultEnv": "The goat stands in a sunny green meadow dotted with wildflowers, gentle hills and a warm golden sky behind.",
         "group1": [
-          "The goat lounges back on a folding beach lounge chair with wide red-and-white striped canvas over a light wooden frame, set on a sunlit sandy beach at golden sunset, a calm sea reflecting the sun and stretching to a distant hazy coastline, a few loose blossoms and green leaves framing the edges.",
-          "The goat stands beside a richly decorated green fir Christmas tree hung with red, gold and blue glass ornaments and twinkling warm-white lights, wrapped presents beneath it, in a cozy living room with a glowing fireplace and a frosted window in the background.",
-          "The goat sits on a tightly bound golden hay bale tied with coarse rope atop a rough-hewn wooden crate, in a sunny farmyard with a red wooden barn, a weathered wooden fence and golden wheat fields rolling into the distance under a warm evening sky.",
-          "The goat sings into a handheld karaoke microphone with a dark foam head and brushed-silver body, standing on a small karaoke stage in front of a glowing screen with blurred colorful lyrics, sweeping pink, blue and purple spotlight beams and disco-ball reflections filling a lively party room.",
-          "The goat rides astride a small cartoon rocket ship with a glossy white body, bold red and blue fin stripes, a round porthole and a cherry-red nose cone, flying through outer space high above planet Earth: the curved blue-and-white globe with swirling clouds and a warm golden sunrise glow along its horizon fills the lower part of the frame, deep starry black-blue space above, a bright fiery exhaust trail streaming from the rocket."
-        ],
-        "group2": [
           "In one hoof the goat holds a tall fancy cocktail glass with a bright orange layered drink, condensation beading on the glass, garnished with a small striped paper umbrella and an orange slice.",
           "In one hoof the goat holds a white cone-shaped party popper mid-burst, multicolored confetti and curled paper streamers spraying through the air.",
           "The goat wears classic stylish sunglasses with a glossy black frame and dark tinted lenses with a bright reflective highlight.",
           "Behind the goat, bright festive fireworks burst across the sky — large golden bursts with radiating sparkling trails and smaller red and violet bursts around them, lighting up the scene; seen through a large window if the scene is indoors.",
           "The goat wears a cone-shaped party hat in a red-to-orange gradient with white confetti dots and a fluffy white pompom, perched between its horns."
+        ],
+        "group2": [
+          "The goat lounges back on a folding beach lounge chair with wide red-and-white striped canvas over a light wooden frame, set on a sunlit sandy beach at golden sunset, a calm sea reflecting the sun and stretching to a distant hazy coastline, a few loose blossoms and green leaves framing the edges.",
+          "The goat stands beside a richly decorated green fir Christmas tree hung with red, gold and blue glass ornaments and twinkling warm-white lights, wrapped presents beneath it, in a cozy living room with a glowing fireplace and a frosted window in the background.",
+          "The goat sits on a tightly bound golden hay bale tied with coarse rope atop a rough-hewn wooden crate, in a sunny farmyard with a red wooden barn, a weathered wooden fence and golden wheat fields rolling into the distance under a warm evening sky.",
+          "The goat sings into a handheld karaoke microphone with a dark foam head and brushed-silver body, standing on a small karaoke stage in front of a glowing screen with blurred colorful lyrics, sweeping pink, blue and purple spotlight beams and disco-ball reflections filling a lively party room.",
+          "The goat rides astride a small cartoon rocket ship with a glossy white body, bold red and blue fin stripes, a round porthole and a cherry-red nose cone, flying through outer space high above planet Earth: the curved blue-and-white globe with swirling clouds and a warm golden sunrise glow along its horizon fills the lower part of the frame, deep starry black-blue space above, a bright fiery exhaust trail streaming from the rocket."
         ]
       },
       "defaultEnv": "The goat stands in a sunny wildflower meadow with gentle hills and a warm golden sky.",
-      "envGroup": "group1",
+      "envGroup": "group2",
       "group1": {
-        "label": "Реквизит",
-        "items": [
-          {
-            "name": "На шезлонге",
-            "card": "A folding beach lounge chair with wide red-and-white striped canvas fabric stretched over a light wooden frame, the fabric slightly creased and sagging naturally in the seat, set on a sunlit sandy beach with the warm glow of a golden sunset reflecting off a calm sea stretching to a distant hazy coastline, a few loose blossoms and soft green leaves framing the edges of the scene; shown as a standalone lounge chair and beach setting, no goat.",
-            "scene": "The goat lounges on a red-and-white striped beach chair on a sandy beach at golden sunset, a calm sea reflecting the sun to a hazy coastline, blossoms and leaves framing the edges."
-          },
-          {
-            "name": "У ёлки",
-            "card": "A richly decorated green fir Christmas tree hung with round glass ornaments in red, gold and blue, strings of small twinkling warm-white lights woven through the branches; shown as a standalone tree, no goat.",
-            "scene": "The goat stands beside a decorated Christmas tree with red, gold and blue ornaments and twinkling lights, presents beneath it, in a cozy living room with a glowing fireplace and a frosted window."
-          },
-          {
-            "name": "На ферме",
-            "card": "A tightly bound golden bundle of dry hay wrapped twice with coarse rope, resting atop a rough-hewn wooden crate; shown as a standalone farm prop, no goat.",
-            "scene": "The goat sits on a rope-tied hay bale on a wooden crate in a sunny farmyard with a red barn, a wooden fence and golden wheat fields under a warm evening sky."
-          },
-          {
-            "name": "В караоке",
-            "card": "A handheld karaoke microphone with a dark foam windscreen head and a brushed-silver metallic body, held at a slight upward angle as if captured mid-song; standing in front of a small glowing karaoke screen faintly displaying blurred colorful song lyrics, soft sweeping beams of pink, blue and purple stage spotlights crossing through the air around it, scattered small round reflections of disco light visible softly in the near background — a lively, festive karaoke-party atmosphere; shown as a standalone prop and setting, no goat.",
-            "scene": "The goat sings into a silver karaoke microphone on a small stage before a glowing lyrics screen, pink, blue and purple spotlights and disco-ball reflections filling a lively party room."
-          },
-          {
-            "name": "На ракете",
-            "card": "A small cartoon rocket ship with a glossy white body, bold red and blue fin stripes, a round porthole window, and a pointed cherry-red nose cone; shown as a standalone rocket, no goat.",
-            "scene": "The goat rides astride a small white cartoon rocket with red and blue fins and a red nose cone, flying through outer space high above Earth: the curved blue-and-white planet with swirling clouds and a golden sunrise on its horizon fills the lower frame, starry deep space above, a fiery exhaust trail behind."
-          }
-        ]
-      },
-      "group2": {
         "label": "Аксессуары",
         "items": [
           {
@@ -421,6 +391,36 @@
             "name": "В колпаке",
             "card": "A festive cone-shaped party hat in a gradient from red to orange with a scattered white confetti-dot print, a fluffy white pompom on the very tip; shown as a standalone party hat, no goat.",
             "scene": "The goat wears a red-to-orange party hat with white dots and a pompom between its horns."
+          }
+        ]
+      },
+      "group2": {
+        "label": "Реквизит",
+        "items": [
+          {
+            "name": "На шезлонге",
+            "card": "A folding beach lounge chair with wide red-and-white striped canvas fabric stretched over a light wooden frame, the fabric slightly creased and sagging naturally in the seat, set on a sunlit sandy beach with the warm glow of a golden sunset reflecting off a calm sea stretching to a distant hazy coastline, a few loose blossoms and soft green leaves framing the edges of the scene; shown as a standalone lounge chair and beach setting, no goat.",
+            "scene": "The goat lounges on a red-and-white striped beach chair on a sandy beach at golden sunset, a calm sea reflecting the sun to a hazy coastline, blossoms and leaves framing the edges."
+          },
+          {
+            "name": "У ёлки",
+            "card": "A richly decorated green fir Christmas tree hung with round glass ornaments in red, gold and blue, strings of small twinkling warm-white lights woven through the branches; shown as a standalone tree, no goat.",
+            "scene": "The goat stands beside a decorated Christmas tree with red, gold and blue ornaments and twinkling lights, presents beneath it, in a cozy living room with a glowing fireplace and a frosted window."
+          },
+          {
+            "name": "На ферме",
+            "card": "A tightly bound golden bundle of dry hay wrapped twice with coarse rope, resting atop a rough-hewn wooden crate; shown as a standalone farm prop, no goat.",
+            "scene": "The goat sits on a rope-tied hay bale on a wooden crate in a sunny farmyard with a red barn, a wooden fence and golden wheat fields under a warm evening sky."
+          },
+          {
+            "name": "В караоке",
+            "card": "A handheld karaoke microphone with a dark foam windscreen head and a brushed-silver metallic body, held at a slight upward angle as if captured mid-song; standing in front of a small glowing karaoke screen faintly displaying blurred colorful song lyrics, soft sweeping beams of pink, blue and purple stage spotlights crossing through the air around it, scattered small round reflections of disco light visible softly in the near background — a lively, festive karaoke-party atmosphere; shown as a standalone prop and setting, no goat.",
+            "scene": "The goat sings into a silver karaoke microphone on a small stage before a glowing lyrics screen, pink, blue and purple spotlights and disco-ball reflections filling a lively party room."
+          },
+          {
+            "name": "На ракете",
+            "card": "A small cartoon rocket ship with a glossy white body, bold red and blue fin stripes, a round porthole window, and a pointed cherry-red nose cone; shown as a standalone rocket, no goat.",
+            "scene": "The goat rides astride a small white cartoon rocket with red and blue fins and a red nose cone, flying through outer space high above Earth: the curved blue-and-white planet with swirling clouds and a golden sunrise on its horizon fills the lower frame, starry deep space above, a fiery exhaust trail behind."
           }
         ]
       }
