@@ -357,8 +357,8 @@
         "group2": [
           "In one hoof the goat holds a tall fancy cocktail glass with a bright orange layered drink, condensation beading on the glass, garnished with a small striped paper umbrella and an orange slice.",
           "In one hoof the goat holds a white cone-shaped party popper mid-burst, multicolored confetti and curled paper streamers spraying through the air.",
-          "The goat wears sunglasses whose lenses and frames are sculpted into stylized dancing flames in glossy orange-to-red enamel.",
-          "A string of small warm-glowing amber fairy lights is draped loosely over the goat's shoulders and around it.",
+          "The goat wears classic stylish sunglasses with a glossy black frame and dark tinted lenses with a bright reflective highlight.",
+          "Behind the goat, bright golden fireworks burst across the sky and form the large glowing numbers \"2027\", made of sparkling trails of light and clearly readable, surrounded by colorful red, violet and gold bursts — seen through a large window if the scene is indoors.",
           "The goat wears a cone-shaped party hat in a red-to-orange gradient with white confetti dots and a fluffy white pompom, perched between its horns."
         ]
       },
@@ -409,13 +409,13 @@
           },
           {
             "name": "В очках",
-            "card": "A pair of sunglasses whose lenses and frames are both sculpted into stylized dancing flame shapes, rendered in gradient warm orange-to-red tones with a glossy enamel-like finish, the flame tips curling upward above each lens; shown as standalone flame-shaped glasses, no goat.",
-            "scene": "The goat wears flame-shaped sunglasses in glossy orange-to-red enamel."
+            "card": "A pair of classic stylish sunglasses with a glossy black frame and rounded square lenses, dark tinted lenses with a soft gradient and a bright reflective highlight across each lens, thin temple arms slightly open, three-quarter front view; shown as standalone sunglasses, no goat.",
+            "scene": "The goat wears classic stylish sunglasses with a glossy black frame and dark tinted lenses with a bright reflective highlight."
           },
           {
-            "name": "С гирляндой",
-            "card": "A loosely tangled nest-like ball of thin brown wire string lights, dozens of small warm-glowing amber bulbs nestled unevenly throughout the coiled wire; shown as a standalone tangle of lights, no goat.",
-            "scene": "Warm amber fairy lights are draped loosely over the goat's shoulders and around it."
+            "name": "Салют 2027",
+            "card": "The large numbers \"2027\" written in bright golden fireworks: each digit drawn from glowing sparkling trails of golden light with tiny sparks, clearly readable, surrounded by a few small bursts of red, violet and gold fireworks; shown as a standalone decoration, no goat.",
+            "scene": "Behind the goat, bright golden fireworks burst across the sky and form the large glowing numbers \"2027\", made of sparkling trails of light and clearly readable, surrounded by colorful red, violet and gold bursts — seen through a large window if the scene is indoors."
           },
           {
             "name": "В колпаке",
