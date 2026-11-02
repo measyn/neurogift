@@ -264,10 +264,10 @@
         "defaultEnv": "The kitten is sitting in a cozy sunlit home interior, a soft sofa, a knit throw and warm window light visible around it.",
         "group1": [
           "The kitten holds the string of a single glossy round red balloon floating above it.",
-          "The kitten wears a large orange grosgrain ribbon bow with crisp looped ends tied at its neck.",
-          "The kitten is wrapped in a cozy, chunky hand-knit burnt-orange scarf with soft fringed tassels.",
+          "The kitten wears a large vivid orange (hex #F64A00) grosgrain ribbon bow with crisp looped ends tied at its neck.",
+          "The kitten is wrapped in a cozy, chunky hand-knit vivid orange (hex #F64A00) scarf with soft fringed tassels.",
           "The kitten hugs a big, lush, overflowing bouquet of fresh colorful flowers with its front paws — dozens of full open blooms and greenery packed densely together, almost as big as the kitten itself, wrapped in kraft paper with a ribbon.",
-          "The kitten hugs a small gift box wrapped in warm gold-brown paper with a satin bow on top."
+          "The kitten hugs a small gift box wrapped in vivid orange (hex #F64A00) paper with a satin bow on top."
         ],
         "group2": [
           "The kitten sits on a plump honey-orange knit cushion on a sunlit pale wooden windowsill, a terracotta pot with trailing green pothos beside it, the window behind showing a softly blurred autumn garden in low golden light, sheer curtains at the edges.",
@@ -289,13 +289,13 @@
           },
           {
             "name": "В бантике",
-            "card": "A large orange grosgrain ribbon bow with crisp looped ends and a small knotted center; shown as a standalone bow, no kitten.",
-            "scene": "The kitten wears a large orange grosgrain bow at its neck."
+            "card": "A large vivid orange (hex #F64A00) grosgrain ribbon bow with crisp looped ends and a small knotted center; shown as a standalone bow, no kitten.",
+            "scene": "The kitten wears a large vivid orange (hex #F64A00) grosgrain bow at its neck."
           },
           {
             "name": "В шарфе",
-            "card": "A cozy, thick hand-knit scarf in a warm burnt-orange color, with a chunky bulky rib-knit texture, clearly visible thick yarn strands and a slightly irregular handmade look, both ends hanging unevenly with soft fringed tassels; shown as a standalone knitted scarf, no kitten.",
-            "scene": "The kitten is wrapped in a chunky hand-knit burnt-orange scarf with fringed tassels."
+            "card": "A cozy, thick hand-knit scarf in a vivid orange (hex #F64A00) color, with a chunky bulky rib-knit texture, clearly visible thick yarn strands and a slightly irregular handmade look, both ends hanging unevenly with soft fringed tassels; shown as a standalone knitted scarf, no kitten.",
+            "scene": "The kitten is wrapped in a chunky hand-knit vivid orange (hex #F64A00) scarf with fringed tassels."
           },
           {
             "name": "С цветком",
@@ -304,8 +304,8 @@
           },
           {
             "name": "С подарком",
-            "card": "A small gift box wrapped in warm gold-brown textured paper, a matching satin ribbon tied in a neat bow on top; shown as a standalone gift box, no kitten.",
-            "scene": "The kitten hugs a small gold-brown gift box with a satin bow."
+            "card": "A small gift box wrapped in vivid orange (hex #F64A00) textured paper, a matching satin ribbon tied in a neat bow on top; shown as a standalone gift box, no kitten.",
+            "scene": "The kitten hugs a small vivid orange (hex #F64A00) gift box with a satin bow."
           }
         ]
       },
@@ -437,7 +437,7 @@
           "The bear hugs a glossy deep-red plush velvet heart to its chest.",
           "The bear hugs a big, lush, overflowing bouquet of fresh colorful flowers with both paws — dozens of full open blooms and greenery packed densely together, so large it covers most of its chest, wrapped in kraft paper with a ribbon.",
           "The bear holds the string of a single glossy warm-colored balloon floating above it.",
-          "The bear wears a chunky orange-and-rust striped knit scarf wrapped around its neck."
+          "The bear wears a chunky knit scarf striped in vivid orange (hex #F64A00) and rust wrapped around its neck."
         ],
         "group2": [
           "The bear sits in a wooden rocking chair with turned spindles and a red-and-white gingham cushion, in a cozy living room with a bookshelf, a knitted rug and a floor lamp's warm glow.",
@@ -474,8 +474,8 @@
           },
           {
             "name": "В шарфе",
-            "card": "A cozy orange-and-rust striped chunky knit scarf with a thick ribbed texture, clearly visible bulky yarn stitches and a slightly irregular handmade look; shown as a standalone scarf, no bear.",
-            "scene": "The bear wears a chunky orange-and-rust striped knit scarf."
+            "card": "A cozy chunky knit scarf striped in vivid orange (hex #F64A00) and rust with a thick ribbed texture, clearly visible bulky yarn stitches and a slightly irregular handmade look; shown as a standalone scarf, no bear.",
+            "scene": "The bear wears a chunky knit scarf striped in vivid orange (hex #F64A00) and rust."
           }
         ]
       },
